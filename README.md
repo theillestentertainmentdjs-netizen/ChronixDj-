@@ -1,2 +1,2 @@
-# ChronixDj-
+# starboydj
 A professional audio and video dj software for android 
